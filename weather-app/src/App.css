@@ -290,6 +290,7 @@ body {
   }
 
   .weather-container>h1 {
+    font-weight:600;
     font-size: 30px;
   }
 
